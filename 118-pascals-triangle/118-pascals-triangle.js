@@ -5,16 +5,17 @@
 const generate = (numRows) => {
     const arr = [];
     for(let i = 0; i < numRows; i++) {
-        const row = [1];
+        const row = [];
         
-        for(let j = 1; j < i; j++) {
-            row.push(arr[i-1][j-1] + arr[i-1][j]);
+        for(let j = 0; j <= i; j++) {
+            if(j === 0) row.push(1)
+            else if( j === i ) row.push(1);
+            else if( i > 0 && j > 0 ){
+                row.push(arr[i-1][j-1] + arr[i-1][j]);
+            }
         }
-        
-        if( i > 0 ) row.push(1);
         arr.push(row);
     }
-    
     return arr;
 };
 
