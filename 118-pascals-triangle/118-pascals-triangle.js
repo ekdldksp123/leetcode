@@ -14,6 +14,6 @@ const generate = (numRows) => {
         }
         arr.push(row)
     }
-    return arr;
+    return arr
 };
 
