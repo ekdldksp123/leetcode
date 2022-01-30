@@ -4,7 +4,6 @@
  */
 
 const majorityElement = (nums) => {
-    nums.sort();
-    return nums[Math.floor(nums.length/2)];
+    return nums.sort()[Math.floor(nums.length/2)];
 };
 
