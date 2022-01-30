@@ -10,15 +10,14 @@
  * @param {TreeNode} root
  * @return {number}
  */
- const depth = (node) => {
-        if(!node) return 0;
-        let left = depth(node.left);
-        let right = depth(node.right);
-        
-        return 1 + Math.max(left, right);
+const depth = (node) => {
+    if(!node) return 0;
+    let left = depth(node.left);
+    let right = depth(node.right);
+
+    return 1 + Math.max(left, right);
 }
-const maxDepth = (root) => {
-   
+const maxDepth = (root) => {   
     return depth(root)
 };
 
