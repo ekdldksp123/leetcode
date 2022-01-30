@@ -11,7 +11,7 @@
  * @param {TreeNode} root2
  * @return {TreeNode}
  */
-var mergeTrees = function(root1, root2) {
+const mergeTrees = (root1, root2) => {
     if(!root1 || !root2) return !root1 ? root2 : root1;
     root1.val += root2.val;
     
