@@ -7,13 +7,9 @@ const findRelativeRanks = (score) => {
     const sorted = [...score].sort((x,y) => y-x);
     
     for(let i = 0; i < sorted.length; i++) {
-        if(i===0) result[score.indexOf(sorted[i])] = "Gold Medal";
-        else if(i===1) result[score.indexOf(sorted[i])] = "Silver Medal";
-        else if(i===2) result[score.indexOf(sorted[i])] = "Bronze Medal";
-        else {
-            result[score.indexOf(sorted[i])] = `${i + 1}`;
-        }
+        if(i <= 2) {
+            result[score.indexOf(sorted[i])] = `${i === 0 ? 'Gold' : (i === 1 ? 'Silver' : 'Bronze')} Medal`;
+        } else result[score.indexOf(sorted[i])] = `${i + 1}`;
     }
-    
     return result;
 };
