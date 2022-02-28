@@ -27,10 +27,10 @@ const getFolderNames = (names) => {
 };
     
 /*
-* 1. map 에 이름이 없으면 map 에 key를 이름으로 value를 1 로 저장
+* 1. map 에 이름이 없으면 map.set(name, 1);
 * 2. map 에 이름이 있으면 newName = `${name}(${map.get(name)})`
 * 3. newName 이 map 에 있으면 없을때까지 newName = `${name}(${map.get(name)++})`
-* 4. while 문을 빠져나오면 map.set(newName, map.get(newName)+1);
+* 4. while 문을 빠져나오면 map.set(newName, 1);
 *
 ["kaido","kaido(1)","kaido","kaido(1)"]
 ["gta","gta(1)","gta","avalon"]
