@@ -6,7 +6,9 @@ const getFolderNames = (names) => {
     const result = [];
     const map = new Map();
     
-    names.forEach((name) => {
+    for(let i=0; i< names.length; i++) {
+        const name = names[i];
+        
         if(!map.has(name)) {
             map.set(name, 1);
             result.push(name);
@@ -20,7 +22,7 @@ const getFolderNames = (names) => {
             result.push(newName);
             map.set(newName, 1);
         }
-    })
+    }
         
     return result;
 };
