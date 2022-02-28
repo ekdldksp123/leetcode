@@ -6,8 +6,7 @@ const getFolderNames = (names) => {
     const result = [];
     const map = new Map();
     
-    for(let i=0; i< names.length; i++) {
-        const name = names[i];
+    for(const name of names) {
         
         if(!map.has(name)) {
             map.set(name, 1);
