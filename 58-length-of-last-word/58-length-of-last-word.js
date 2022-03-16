@@ -4,7 +4,7 @@
  */
 const lengthOfLastWord = (s) => {
     const arr = s.split(' ').filter(e => e!== '');
-    return arr[arr.length -1].length;
+    return arr.pop().length;
 }
 
 /*
