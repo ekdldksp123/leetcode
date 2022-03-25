@@ -4,21 +4,26 @@
  * @return {string}
  */
 const getSmallestString = function(n, k) {
-    const alphabet = Array.from({ length: 26 }, (v,i) => String.fromCharCode(i + 97))
-    let result = '';
+    //배열에 push 하는 것보다 [index] 로 접근하는게 2배 더 빠르다(중요!!!!)
     
+    const alphabet = [];
+    for(let i = 0; i < 26; i++) {
+        alphabet[i] = String.fromCharCode(i + 97) 
+    }
+    
+    const result = [];
     for(let i = n; i > 0; i--) {
         const num = k - n;
         if(num >= 26) {
-            result += alphabet[25];
+            result[i - 1] = alphabet[25]
             k -= 25
         } else {
-            result += alphabet[num];
+            result[i - 1] = alphabet[num]
             k -= num
         }
     }
     
-    return result.split('').reverse().join('')
+    return result.join('')
 }
 
 
