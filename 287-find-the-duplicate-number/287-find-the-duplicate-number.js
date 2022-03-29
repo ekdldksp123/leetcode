@@ -3,15 +3,10 @@
  * @return {number}
  */
 const findDuplicate = (nums) => {
-    const map = new Map();
+    const set = [] 
     
-    for(const e of nums) {
-        if(!map.has(e)) map.set(e, 1);
-        else return e;
+    for(let i=0; i<nums.length; i++) { // index 를 이용한 for 문이 제일 빠름
+        if(!set.includes(nums[i])) set.push(nums[i])
+        else return nums[i]
     }
 };
-
-/*
-* 1. map 에 요소가 없으면 key로 담는다 value는 1
-* 2. map 에 요소가 있으면 중복된 것으로 간주하고 return
-*/
