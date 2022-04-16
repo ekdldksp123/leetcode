@@ -4,6 +4,5 @@
  */
 const reverseBits = (n) => {
     const numStr = n.toString(2).padStart(32, '0')
-    const reverseStr = [...numStr].reverse().join('')
-    return parseInt(reverseStr,2)
+    return parseInt([...numStr].reverse().join(''), 2)
 };
