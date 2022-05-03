@@ -4,9 +4,6 @@
  * @return {boolean}
  */
 
-
-
-
 const isIsomorphic = (s, t) => {
     const map = new Map()
     
@@ -18,6 +15,7 @@ const isIsomorphic = (s, t) => {
         if(!Array.from(map.keys()).includes(s[i])) map.set(s[i], i)
         sArr[i] = map.get(s[i])
     }
+    
     map.clear()
     
     for(let i = 0; i < t.length; i++) {
