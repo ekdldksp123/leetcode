@@ -3,29 +3,13 @@
  * @return {number[]}
  */
 const countBits = (n) => {
-//     const result = []
-//     const arr = Array.from({length: n + 1}, (v,i) => i).map(v => countOne(v.toString(2)))
-    
-//     for(let i=0; i<arr.length; i++) {
-//         const map = new Map()
-//         let cnt = map.get(`${i}`) || 0
-        
-//         for(const el of [...arr[i]]) {
-//             if(el === '1') map.set(`${i}`, cnt++)
-//         }
-//         result.push(cnt)
-//     }
-    
-    // return arr
     return Array.from({length: n + 1}, (v,i) => i).map(v => countOne(v.toString(2)))
 };
 
 const countOne = (str) => {
     let count = 0;
     for (let i = 0; i < str.length; i++) {
-        if (str.charAt(i) === '1') {
-            count++;
-        }
+        if (str[i] === '1') count++;
     }
     return count;
 }
