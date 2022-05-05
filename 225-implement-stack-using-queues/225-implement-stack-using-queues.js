@@ -15,7 +15,7 @@ MyStack.prototype.push = function(x) {
  * @return {number}
  */
 MyStack.prototype.pop = function() {
-    return this.stack.shift() ?? null
+    return this.stack.shift()
 };
 
 /**
