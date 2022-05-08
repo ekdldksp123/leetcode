@@ -3,11 +3,11 @@
  * @return {number}
  */
 const addDigits = (num) => {
-    if(num < 10) return num
+    if(`${num}`.length === 1) return num
     
-    while(true) {
+    while(`${num}`.length > 1) {
         const strNum = [...`${num}`]
         num = strNum.reduce((acc, cur) => acc + parseInt(cur), 0)
-        if(num < 10) return num
     }
+    return num
 };
