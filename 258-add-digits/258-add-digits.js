@@ -3,9 +3,9 @@
  * @return {number}
  */
 const addDigits = (num) => {
-    if(`${num}`.length === 1) return num
+    if(num < 10) return num
     
-    while(`${num}`.length > 1) {
+    while(String(num).length > 1) {
         const strNum = [...`${num}`]
         num = strNum.reduce((acc, cur) => acc + parseInt(cur), 0)
     }
