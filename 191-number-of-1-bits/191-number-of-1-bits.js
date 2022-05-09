@@ -3,5 +3,15 @@
  * @return {number}
  */
 const hammingWeight = (n) => {
-    return [...n.toString(2)].filter(v => v === '1').length
+    let count = 0
+    
+    if(n === 0) return n
+    while(n > 0) {
+        if(n % 2 === 1) {
+            count ++
+            n = Math.floor(n / 2)
+        } else n = n / 2
+    }
+    
+    return count
 };
