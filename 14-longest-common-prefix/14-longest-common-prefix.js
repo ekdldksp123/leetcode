@@ -12,13 +12,12 @@ const longestCommonPrefix = (strs) => {
     }
     let prefix = ''
     for(let i=0; i < maxStrLen; i++){     
-        const current = strs[0][i]
         for(let j=1; j < strs.length; j++){
-            if(current != strs[j][i]){
+            if(strs[0][i] != strs[j][i]){
                 return prefix
             }
         }
-        prefix += current    
+        prefix += strs[0][i] 
     } 
     return prefix
 };
