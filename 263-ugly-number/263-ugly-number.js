@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 const isUgly = (n) => {
-    //if(n === 1) return true
+    if(n === 1) return true
     if(n <= 0) return false
     
     while(n > 1) {
@@ -12,6 +12,5 @@ const isUgly = (n) => {
         else if(n % 5 === 0) n = n / 5
         else return false
     }
-    
     return true
 };
