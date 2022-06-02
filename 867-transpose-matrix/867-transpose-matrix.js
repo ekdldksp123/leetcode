@@ -7,7 +7,6 @@ const transpose = (matrix) => {
     
     for(let i = 0; i < matrix[0].length; i++) {
         for(let j = 0; j < matrix.length; j++) {
-            
             result[i].push(matrix[j][i])
         }
     }
