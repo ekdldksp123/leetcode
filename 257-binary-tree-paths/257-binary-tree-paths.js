@@ -15,15 +15,15 @@ const binaryTreePaths = (root) => {
     const dfs = (root, path) => {
         if (!root) return; //이 함수가 선언된 함수까지 종료시켜버린다.
         
-        const leaf = !root.left && !root.right;
-        path = path.length ? path+'->'+root.val : String(root.val);
+        const leaf = !root.left && !root.right
+        path = path.length ? `${path}->${root.val}` : `${root.val}`
         if (leaf) {
-            paths.push(path);
+            paths.push(path)
             return;
         }
 
-        dfs(root.left, path);
-        dfs(root.right, path);
+        dfs(root.left, path)
+        dfs(root.right, path)
     }
     
     dfs(root, '');
