@@ -3,11 +3,11 @@
  * @return {number[][]}
  */
 const flipAndInvertImage = (image) => {
-    return image.map(arr => {
-        arr.reverse()
-        arr.map((v, i) => {
-            arr[i] = v ? 0 : 1
+    return image.map(v => {
+        v.reverse()
+        v.forEach((e, i, arr) => {
+            v[i] = e ? 0 : 1
         })
-        return arr
+        return v
     })
 };
