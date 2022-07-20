@@ -10,7 +10,7 @@ const intersect = function(nums1, nums2) {
     }
     const result = [];
     for(const n of nums2) {
-        if(map.has(n) && map.get(n) > 0) {
+        if(map.get(n)) {
             map.set(n, map.get(n)-1)
             result.push(n)
         }
