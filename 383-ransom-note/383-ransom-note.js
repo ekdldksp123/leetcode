@@ -4,15 +4,12 @@
  * @return {boolean}
  */
 const canConstruct = function(ransomNote, magazine) {
-    let count = 0
-    const compare = [...magazine]
+    const arr = [...ransomNote]
     
-    for(const e of ransomNote) {
-        if(compare.includes(e)) {
-            compare.splice(compare.indexOf(e), 1)
-            count++
-        }
+    for (const c of magazine) {
+        const index = arr.indexOf(c)
+        if (index > -1) arr.splice(index, 1)
+        if (!arr.length) return true;
     }
-    if(count === ransomNote.length) return true
-    else return false
+    return false;
 };
