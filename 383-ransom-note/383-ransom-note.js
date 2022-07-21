@@ -9,7 +9,7 @@ const canConstruct = function(ransomNote, magazine) {
     for (const c of magazine) {
         const index = arr.indexOf(c)
         if (index > -1) arr.splice(index, 1)
-        if (!arr.length) return true;
     }
-    return false;
+    if (!arr.length) return true
+    return false
 };
