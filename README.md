@@ -9,6 +9,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 # Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ekdldksp123/leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ekdldksp123/leetcode/tree/master/0048-rotate-image) |
 # Math
 |  |
@@ -18,3 +19,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ekdldksp123/leetcode/tree/master/0048-rotate-image) |
+# Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ekdldksp123/leetcode/tree/master/0039-combination-sum) |
