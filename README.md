@@ -16,6 +16,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ekdldksp123/leetcode/tree/master/0048-rotate-image) |
+| [2481-strictly-palindromic-number](https://github.com/ekdldksp123/leetcode/tree/master/2481-strictly-palindromic-number) |
 # Matrix
 |  |
 | ------- |
@@ -28,6 +29,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ekdldksp123/leetcode/tree/master/0042-trapping-rain-water) |
+| [2481-strictly-palindromic-number](https://github.com/ekdldksp123/leetcode/tree/master/2481-strictly-palindromic-number) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -40,3 +42,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ekdldksp123/leetcode/tree/master/0042-trapping-rain-water) |
+# Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/ekdldksp123/leetcode/tree/master/2481-strictly-palindromic-number) |
