@@ -46,3 +46,11 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/ekdldksp123/leetcode/tree/master/2481-strictly-palindromic-number) |
+# String
+|  |
+| ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ekdldksp123/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+# Greedy
+|  |
+| ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ekdldksp123/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
