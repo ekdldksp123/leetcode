@@ -6,7 +6,7 @@
 const minPartitions = (n: string): number => {
     let result = 0
     for(const digit of n) {
-        result = Math.max(result, Number(digit))
+        result = Math.max(result, parseInt(digit))
     }
     return result
 };
