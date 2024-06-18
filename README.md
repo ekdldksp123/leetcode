@@ -12,6 +12,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | [0039-combination-sum](https://github.com/ekdldksp123/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ekdldksp123/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ekdldksp123/leetcode/tree/master/0048-rotate-image) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/ekdldksp123/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 # Math
 |  |
 | ------- |
@@ -54,3 +55,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ekdldksp123/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+# Bit Manipulation
+|  |
+| ------- |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/ekdldksp123/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
