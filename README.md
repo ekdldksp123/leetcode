@@ -67,3 +67,19 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ekdldksp123/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+# Tree
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/ekdldksp123/leetcode/tree/master/1254-deepest-leaves-sum) |
+# Depth-First Search
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/ekdldksp123/leetcode/tree/master/1254-deepest-leaves-sum) |
+# Breadth-First Search
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/ekdldksp123/leetcode/tree/master/1254-deepest-leaves-sum) |
+# Binary Tree
+|  |
+| ------- |
+| [1254-deepest-leaves-sum](https://github.com/ekdldksp123/leetcode/tree/master/1254-deepest-leaves-sum) |
