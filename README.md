@@ -51,6 +51,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ekdldksp123/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3379-score-of-a-string](https://github.com/ekdldksp123/leetcode/tree/master/3379-score-of-a-string) |
 # Greedy
 |  |
 | ------- |
