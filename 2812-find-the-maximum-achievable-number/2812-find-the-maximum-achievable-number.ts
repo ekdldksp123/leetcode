@@ -1,0 +1,1 @@
+const theMaximumAchievableX = (num: number, t: number): number => num + t * 2
