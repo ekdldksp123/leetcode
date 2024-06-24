@@ -18,6 +18,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | ------- |
 | [0048-rotate-image](https://github.com/ekdldksp123/leetcode/tree/master/0048-rotate-image) |
 | [2481-strictly-palindromic-number](https://github.com/ekdldksp123/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2812-find-the-maximum-achievable-number](https://github.com/ekdldksp123/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 # Matrix
 |  |
 | ------- |
