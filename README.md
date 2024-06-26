@@ -14,6 +14,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | [0048-rotate-image](https://github.com/ekdldksp123/leetcode/tree/master/0048-rotate-image) |
 | [2058-concatenation-of-array](https://github.com/ekdldksp123/leetcode/tree/master/2058-concatenation-of-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ekdldksp123/leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ekdldksp123/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 # Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ekdldksp123/leetcode/tree/master/0048-rotate-image) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ekdldksp123/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 # Backtracking
 |  |
 | ------- |
@@ -87,3 +89,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [1254-deepest-leaves-sum](https://github.com/ekdldksp123/leetcode/tree/master/1254-deepest-leaves-sum) |
+# Sorting
+|  |
+| ------- |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/ekdldksp123/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
