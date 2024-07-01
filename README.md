@@ -93,3 +93,18 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ekdldksp123/leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1572-subrectangle-queries](https://github.com/ekdldksp123/leetcode/tree/master/1572-subrectangle-queries) |
+## Design
+|  |
+| ------- |
+| [1572-subrectangle-queries](https://github.com/ekdldksp123/leetcode/tree/master/1572-subrectangle-queries) |
+## Matrix
+|  |
+| ------- |
+| [1572-subrectangle-queries](https://github.com/ekdldksp123/leetcode/tree/master/1572-subrectangle-queries) |
+<!---LeetCode Topics End-->
