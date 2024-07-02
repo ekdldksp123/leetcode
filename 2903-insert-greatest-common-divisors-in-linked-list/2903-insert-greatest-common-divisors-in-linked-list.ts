@@ -10,26 +10,20 @@
  * }
  */
 
+
+const gcd = (a:number, b:number) => {
+    if(b === 0) return a
+    return gcd(b, a % b)
+}
+
 const insertGreatestCommonDivisors = (head: ListNode | null): ListNode | null => {
+    let val: ListNode | null = head, next: ListNode | null = head.next
 
-    const recur = (node: ListNode | null) => {
-        if(!node || !node?.next || !node?.next?.val) return node
+    while(next) {
+        val.next = new ListNode(gcd(val.val, next.val), next)
 
-        if(node.val && node.next) {
-            const val = node.val
-            const next = node.next
-
-            let gcd = 1;
-            for(let i=2; i<=Math.min(val, next?.val); i++){
-                if(val % i === 0 && next?.val % i === 0){
-                    gcd = i;
-                }
-            }
-            node.next = new ListNode(gcd, next)
-            recur(next)
-        } 
-    }  
-
-    recur(head)
+        val = next
+        next = next.next
+    }
     return head
 };
