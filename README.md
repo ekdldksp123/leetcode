@@ -100,6 +100,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ekdldksp123/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1572-subrectangle-queries](https://github.com/ekdldksp123/leetcode/tree/master/1572-subrectangle-queries) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ekdldksp123/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Design
 |  |
 | ------- |
@@ -140,4 +141,5 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ekdldksp123/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ekdldksp123/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 <!---LeetCode Topics End-->
