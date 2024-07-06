@@ -15,7 +15,6 @@ const findMatrix = (nums: number[]): number[][] => {
         maxFrequency = Math.max(maxFrequency, frequencies.get(num))
     }
     const matrix: number[][] = Array.from({ length: maxFrequency }, () => []);
-    console.log({frequencies, matrix})
     
     frequencies.forEach((value,key) => {
         for(let i=0; i<value; i++) {
