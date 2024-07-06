@@ -98,6 +98,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 ## Array
 |  |
 | ------- |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ekdldksp123/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1572-subrectangle-queries](https://github.com/ekdldksp123/leetcode/tree/master/1572-subrectangle-queries) |
 ## Design
 |  |
@@ -135,4 +136,8 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ekdldksp123/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ekdldksp123/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 <!---LeetCode Topics End-->
