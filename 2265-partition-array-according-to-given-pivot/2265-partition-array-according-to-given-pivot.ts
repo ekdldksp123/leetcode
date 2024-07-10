@@ -6,6 +6,5 @@ const pivotArray = (nums: number[], pivot: number): number[] => {
         else if(num > pivot) right.push(num)
         else mid.push(num)
     }
-
     return [...left, ...mid, ...right]
 };
