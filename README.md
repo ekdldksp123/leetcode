@@ -126,10 +126,12 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ekdldksp123/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ekdldksp123/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ekdldksp123/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ekdldksp123/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -138,6 +140,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ekdldksp123/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ekdldksp123/leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
 |  |
 | ------- |
