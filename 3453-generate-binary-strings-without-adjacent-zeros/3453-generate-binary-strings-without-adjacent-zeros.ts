@@ -8,11 +8,11 @@ const validStrings = (n: number): string[] => {
         }
         
         if (lastChar !== '0') {
-            backtrack(current + '0', '0')
+            backtrack(`${current}0`, '0')
         }
-        backtrack(current + '1', '1')
+        backtrack(`${current}1`, '1')
     }
     backtrack('', '')
     
-    return result;
+    return result
 };
