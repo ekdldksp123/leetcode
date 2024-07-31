@@ -13,18 +13,18 @@ const directions = [
     [-1, -1] // up-left
 ];
 const queensAttacktheKing = (queens: number[][], king: number[]): number[][] => {
-    const result = [];
-
+    const result = []
     for (const [dx, dy] of directions) {
-        let [x, y] = king;
+        let [x, y] = king
+        
         while (x >= 0 && x < 8 && y >= 0 && y < 8) {
-            x += dx;
-            y += dy;
+            x += dx
+            y += dy
             if (queens.find(([a,b]) => a === x && b === y)) {
-                result.push([x, y]);
-                break;
+                result.push([x, y])
+                break
             }
         }
     }
     return result
-};
+}
