@@ -98,6 +98,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 ## Array
 |  |
 | ------- |
+| [1342-queens-that-can-attack-the-king](https://github.com/ekdldksp123/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ekdldksp123/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1572-subrectangle-queries](https://github.com/ekdldksp123/leetcode/tree/master/1572-subrectangle-queries) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ekdldksp123/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -110,6 +111,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 ## Matrix
 |  |
 | ------- |
+| [1342-queens-that-can-attack-the-king](https://github.com/ekdldksp123/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1572-subrectangle-queries](https://github.com/ekdldksp123/leetcode/tree/master/1572-subrectangle-queries) |
 ## Linked List
 |  |
@@ -165,6 +167,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 ## Simulation
 |  |
 | ------- |
+| [1342-queens-that-can-attack-the-king](https://github.com/ekdldksp123/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ekdldksp123/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
