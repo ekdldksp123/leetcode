@@ -20,7 +20,7 @@ const queensAttacktheKing = (queens: number[][], king: number[]): number[][] => 
         while (x >= 0 && x < 8 && y >= 0 && y < 8) {
             x += dx;
             y += dy;
-            if (queens.find(([a,b]) => a===x && b===y)) {
+            if (queens.find(([a,b]) => a === x && b === y)) {
                 result.push([x, y]);
                 break;
             }
