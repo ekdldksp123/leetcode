@@ -1,32 +1,22 @@
 function convert(s: string, numRows: number): string {
-    if(numRows === 1) return s;
+    if(numRows === 1) return s
 
-    const zigzag = []
-    const betweenCount = numRows - 2;
+    const rows = new Array(numRows).fill('')
     
-    let rowIdx = 0;
-    while (s.length) {
-        zigzag[rowIdx] = [...s.slice(0, numRows)]
-        rowIdx += 1
-        s = s.slice(numRows)
+    let rowIdx = -1
+    let ascending = true
 
-        if (betweenCount > 0 && s.length) {
-            for(let i=0; i < betweenCount; i++) {
-                zigzag[rowIdx] = new Array(numRows).fill('')
-                zigzag[rowIdx][numRows - 1 - (i+1)] = s.charAt(i)
-                rowIdx += 1
-            }
-            s = s.slice(betweenCount)
+    for (let i=0; i<s.length; i++) {
+        rowIdx += ascending ? 1 : -1
+        rows[rowIdx] += s[i]
+
+        if (rowIdx === numRows - 1) {
+            ascending = false
+        } else if (rowIdx === 0) {
+            ascending = true
         }
+ 
     }
 
-    let result = ''
-    for(let i=0; i < numRows; i++) {
-        for(const row of zigzag) {
-            const char = row[i]
-            result += (char || '')
-        }
-    }
-
-    return result
+    return rows.join('')
 };
