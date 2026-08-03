@@ -156,6 +156,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ekdldksp123/leetcode/tree/master/0071-simplify-path) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ekdldksp123/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ekdldksp123/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Function
@@ -180,4 +181,8 @@ _Medium...그래도 몇개 풀었따...눙물_
 | ------- |
 | [0002-add-two-numbers](https://github.com/ekdldksp123/leetcode/tree/master/0002-add-two-numbers) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ekdldksp123/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/ekdldksp123/leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
