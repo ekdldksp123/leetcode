@@ -98,6 +98,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ekdldksp123/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/ekdldksp123/leetcode/tree/master/0016-3sum-closest) |
 | [1342-queens-that-can-attack-the-king](https://github.com/ekdldksp123/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ekdldksp123/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -142,6 +143,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ekdldksp123/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ekdldksp123/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
@@ -192,4 +194,8 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ekdldksp123/leetcode/tree/master/0016-3sum-closest) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ekdldksp123/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
