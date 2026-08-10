@@ -168,6 +168,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | [0005-longest-palindromic-substring](https://github.com/ekdldksp123/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ekdldksp123/leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ekdldksp123/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ekdldksp123/leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/ekdldksp123/leetcode/tree/master/0071-simplify-path) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ekdldksp123/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ekdldksp123/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -218,6 +219,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ekdldksp123/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ekdldksp123/leetcode/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -226,6 +228,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ekdldksp123/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ekdldksp123/leetcode/tree/master/0022-generate-parentheses) |
 | [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
 ## Manacher
 |  |
@@ -251,4 +254,8 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ekdldksp123/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
