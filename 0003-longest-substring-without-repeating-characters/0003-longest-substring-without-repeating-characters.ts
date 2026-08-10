@@ -1,6 +1,4 @@
 function lengthOfLongestSubstring(s: string): number {
-    if(!s.length) return 0;
-
     let arr: boolean[] = Array.from({length: 128}, () => false)
     let l = 0;
     let r = 0;
