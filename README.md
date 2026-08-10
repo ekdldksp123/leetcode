@@ -164,6 +164,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ekdldksp123/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ekdldksp123/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ekdldksp123/leetcode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ekdldksp123/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/ekdldksp123/leetcode/tree/master/0071-simplify-path) |
@@ -176,6 +177,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ekdldksp123/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ekdldksp123/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ekdldksp123/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ekdldksp123/leetcode/tree/master/0018-4sum) |
@@ -219,4 +221,12 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ekdldksp123/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ekdldksp123/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ekdldksp123/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
