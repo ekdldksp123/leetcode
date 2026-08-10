@@ -1,19 +1,20 @@
 function lengthOfLongestSubstring(s: string): number {
     if(!s.length) return 0;
 
-    let charArr = [s[0]]
-    let maxLength = 1;
+    let arr: boolean[] = Array.from({length: 128}, () => false)
+    let l = 0;
+    let r = 0;
+    let maxLen = 0;
 
-    for(let i=1; i<s.length; i++) {
-        if(!charArr.includes(s[i]) && charArr.includes(s[i-1])) {
-            charArr.push(s[i])
-        } else if(charArr.includes(s[i]) && s[i] !== s[i-1]) {
-            charArr = charArr.slice(charArr.indexOf(s[i]) + 1)
-            charArr.push(s[i])
+    while(r < s.length) {
+        if(!arr[s.charCodeAt(r)]) {
+            arr[s.charCodeAt(r)] = true;
+            maxLen = Math.max(maxLen, r - l + 1)
+            r++;
         } else {
-            charArr = [s[i]]
+            arr[s.charCodeAt(l)] = false;
+            l++;
         }
-        maxLength = Math.max(charArr.length, maxLength)
     }
-    return Math.max(charArr.length, maxLength)
+    return maxLen
 };
