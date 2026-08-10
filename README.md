@@ -126,6 +126,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ekdldksp123/leetcode/tree/master/0002-add-two-numbers) |
+| [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
 | [2556-convert-the-temperature](https://github.com/ekdldksp123/leetcode/tree/master/2556-convert-the-temperature) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ekdldksp123/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -225,8 +226,29 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ekdldksp123/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ekdldksp123/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
