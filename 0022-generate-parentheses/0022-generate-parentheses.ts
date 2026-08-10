@@ -1,7 +1,6 @@
 function generateParenthesis(n: number): string[] {
     const answer: string[] = []
     function backtrack(current: string, open: number, close: number) {
-        console.log({current})
         if(open === n && close === n) {
             answer.push(current)
         }
