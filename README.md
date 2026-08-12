@@ -107,6 +107,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | [1572-subrectangle-queries](https://github.com/ekdldksp123/leetcode/tree/master/1572-subrectangle-queries) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ekdldksp123/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ekdldksp123/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ekdldksp123/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Design
 |  |
 | ------- |
@@ -161,6 +162,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | [0535-encode-and-decode-tinyurl](https://github.com/ekdldksp123/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ekdldksp123/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ekdldksp123/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ekdldksp123/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -224,6 +226,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ekdldksp123/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ekdldksp123/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
