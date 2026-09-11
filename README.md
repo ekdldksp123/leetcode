@@ -102,6 +102,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | [0011-container-with-most-water](https://github.com/ekdldksp123/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/ekdldksp123/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ekdldksp123/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/ekdldksp123/leetcode/tree/master/0075-sort-colors) |
 | [1342-queens-that-can-attack-the-king](https://github.com/ekdldksp123/leetcode/tree/master/1342-queens-that-can-attack-the-king) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ekdldksp123/leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1572-subrectangle-queries](https://github.com/ekdldksp123/leetcode/tree/master/1572-subrectangle-queries) |
@@ -191,6 +192,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | [0016-3sum-closest](https://github.com/ekdldksp123/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ekdldksp123/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ekdldksp123/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/ekdldksp123/leetcode/tree/master/0075-sort-colors) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ekdldksp123/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -215,6 +217,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | ------- |
 | [0016-3sum-closest](https://github.com/ekdldksp123/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ekdldksp123/leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/ekdldksp123/leetcode/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -267,4 +270,12 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ekdldksp123/leetcode/tree/master/0022-generate-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ekdldksp123/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ekdldksp123/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
