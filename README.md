@@ -132,6 +132,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ekdldksp123/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ekdldksp123/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ekdldksp123/leetcode/tree/master/0012-integer-to-roman) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ekdldksp123/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
