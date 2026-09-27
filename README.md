@@ -110,6 +110,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | [2265-partition-array-according-to-given-pivot](https://github.com/ekdldksp123/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ekdldksp123/leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ekdldksp123/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3524-find-x-value-of-array-i](https://github.com/ekdldksp123/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Design
 |  |
 | ------- |
@@ -136,6 +137,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
 | [2556-convert-the-temperature](https://github.com/ekdldksp123/leetcode/tree/master/2556-convert-the-temperature) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ekdldksp123/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3524-find-x-value-of-array-i](https://github.com/ekdldksp123/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -248,6 +250,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | [0005-longest-palindromic-substring](https://github.com/ekdldksp123/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ekdldksp123/leetcode/tree/master/0022-generate-parentheses) |
 | [1510-stone-game-iv](https://github.com/ekdldksp123/leetcode/tree/master/1510-stone-game-iv) |
+| [3524-find-x-value-of-array-i](https://github.com/ekdldksp123/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
 | ------- |
