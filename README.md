@@ -126,6 +126,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | ------- |
 | [0002-add-two-numbers](https://github.com/ekdldksp123/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ekdldksp123/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/ekdldksp123/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/ekdldksp123/leetcode/tree/master/0061-rotate-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ekdldksp123/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Math
@@ -215,6 +216,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ekdldksp123/leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/ekdldksp123/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ekdldksp123/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
