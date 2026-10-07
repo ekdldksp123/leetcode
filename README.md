@@ -187,6 +187,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | [0022-generate-parentheses](https://github.com/ekdldksp123/leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ekdldksp123/leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/ekdldksp123/leetcode/tree/master/0071-simplify-path) |
+| [0301-remove-invalid-parentheses](https://github.com/ekdldksp123/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ekdldksp123/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ekdldksp123/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/ekdldksp123/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -247,6 +248,7 @@ _Medium...그래도 몇개 풀었따...눙물_
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ekdldksp123/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ekdldksp123/leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ekdldksp123/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -300,4 +302,8 @@ _Medium...그래도 몇개 풀었따...눙물_
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ekdldksp123/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ekdldksp123/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
