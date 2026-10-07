@@ -4,14 +4,14 @@ type Target = {
 }
 
 function removeInvalidParentheses(s: string): string[] {
-    const answer:string[] = []
+    const answer = new Set<string>()
     const {open, close} = targetChars(s)
 
     const recur = (str:string, open:number, close:number, index:number) => {
         if(!open && !close) {
             const target: Target = targetChars(str) 
-            if(!target.open && !target.close && !answer.includes(str)) {
-                answer.push(str)
+            if(!target.open && !target.close) {
+                answer.add(str)
             }
             return
         }
@@ -30,7 +30,7 @@ function removeInvalidParentheses(s: string): string[] {
 
     recur(s, open, close, 0)
 
-    return answer
+    return [...answer]
 };
 
 function targetChars(s: string): Target {
